@@ -21,5 +21,9 @@ En el caso del Conversor de Monedas, al abrir la aplicación se le presenta al u
 
 Java - IDE Eclipse
 
-(https://github.com/StefP23/Conversor_Moneda_Temperatura/assets/129789183/348fa56e-a1fa-4e3c-adb8-bb109040e149)
+![logojava](https://github.com/StefP23/Conversor_Moneda_Temperatura/assets/129789183/c97c145e-c3bc-4259-921a-74d0ad2c25c8)
+
+![eclipselogo](https://github.com/StefP23/Conversor_Moneda_Temperatura/assets/129789183/47089ac7-f54d-4dc5-944e-7998acbc9ef4)
+
+
 
