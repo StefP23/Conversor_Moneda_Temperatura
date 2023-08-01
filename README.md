@@ -18,3 +18,8 @@ También contiene un conversor de temperatura de Cº (Celsius) a Fº (Fahrenheit
 En el caso del Conversor de Monedas, al abrir la aplicación se le presenta al usuario la interfaz donde seleccionará en el primer campo la opción de moneda de conversión de la cual desea conocer el valor seguidamente en el segundo campo ingresarà la cantidad o monto del cual se hará la conversión, para tener un mejor control del resultado se agregó un botón con la leyenda "Convertir" el cual en un campo aparte brindará el resultado de la conversión.
 
 # Lenguaje Utilizado en el Proyecto
+
+Java - IDE Eclipse
+![logojava](https://github.com/StefP23/Conversor_Moneda_Temperatura/assets/129789183/966d17b2-cd2c-4676-9f4e-b1d4c357fddd)
+
+
